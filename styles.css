@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+body{
+    font-family: Arial, sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+form{
+    border:1px solid #ccc;
+    padding:20px;
+}
